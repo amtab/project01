@@ -77,8 +77,7 @@ img {
 
   img:hover {
     transform: scale(1,1.5) translate(10px, 10px);
-
-  }
+}
 
 p {
 font-family: 'Muli', sans-serif;
