@@ -58,17 +58,16 @@ h6 {
 
 }
 img {
-  outline: 4px groove #6B9CFF;
-outline-offset: 1px;
-
+      outline: 4px groove #6B9CFF;
+      outline-offset: 1px;
       display: block;
       position: relative;
       width: 200px;
       height:200px;
       overflow:hidden;
-    float: right;
-     margin: 0px 0px 15px 15px;
-     z-index: 5;
+      float: right;
+       margin: 0px 0px 15px 15px;
+       z-index: 5;
   }
 
   img:hover {
@@ -85,6 +84,7 @@ background-color: white;
 }
 .row {
   background-color:  white;
+  padding: 30px;
 }
 
 .navbar {
