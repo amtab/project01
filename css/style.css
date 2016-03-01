@@ -5,7 +5,8 @@ nav {
     position: fixed;
     top: 0;
     left: 0;
-    background: #3300FF;
+    background:  #ff5c33
+;
     border-bottom: 2px solid #ccc;
     height: 10%;
     width: 100%;
@@ -13,7 +14,7 @@ nav {
 
 
 nav li {
-    float: left;
+    float: right;
     width: auto;
     text-decoration: none;
     list-style-type: none;
@@ -30,11 +31,13 @@ nav li a {
 }
 body {
     padding-top: 70px;
-    background-color:  #9999ff;
+    background-color:  #ffe6e6;
+;
 }
 
 nav li a:hover {
     background-color: white;
+    border-radius: 25px;
     -webkit-transition: all 2s ease;
 -moz-transition: all 2s ease;
 -ms-transition: all 2s ease;
@@ -81,6 +84,7 @@ font-family: 'Muli', sans-serif;
 text-align: center;
 margin: 20%;
 background-color: white;
+border-radius: 25px;
 
 
 }
